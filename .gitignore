@@ -209,3 +209,4 @@ uv.lock
 pytorch_deep_learning/*
 ztm_pytorch/experiment_tracking/*
 uv.lock
+ztm_pytorch/models/*
